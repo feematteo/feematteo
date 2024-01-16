@@ -4,7 +4,7 @@
 
 # Languages and Tools
 # Languages and Tools
-![Image1](https://raw.githubusercontent.com/feematteo/feematteo/main/assets/103369857/cb5de2ca-b980-4162-bb69-2d6e526208af.png) 
+![Image1](./logos/R.png) 
 ![Image2](https://raw.githubusercontent.com/feematteo/feematteo/main/assets/103369857/27290101-5bf2-4f99-9f52-072ca5c03946.png)
 
 ![Image3](https://raw.githubusercontent.com/feematteo/feematteo/main/assets/103369857/8b118b16-c646-4761-8664-a4b1ac839bc4.png) 
