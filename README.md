@@ -3,7 +3,6 @@
 ## In my work time, free time, and study time, I'm always engaged in Finance, Statistics, and Data Analysis.
 
 # Languages and Tools
-# Languages and Tools
 <img src="./logos/py.png" alt="Image1" width="50" height="50">
 <img src="./logos/R.png" alt="Image2" width="50" height="50">
 <img src="./logos/excel.png" alt="Image3" width="50" height="50">
