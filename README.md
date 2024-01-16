@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I'm Matteo
+
+## In my work time, free time, and study time, I'm always engaged in Finance, Statistics, and Data Analysis.
+# Languages and Tools
+![image](https://github.com/feematteo/feematteo/assets/103369857/cb5de2ca-b980-4162-bb69-2d6e526208af)
+
 
 <!--
 **feematteo/feematteo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
