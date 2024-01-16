@@ -3,7 +3,7 @@
 ## In my work time, free time, and study time, I'm always engaged in Finance, Statistics, and Data Analysis.
 
 # Languages and Tools
-![Image](https://github.com/feematteo/feematteo/blob/main/assets/103369857/cb5de2ca-b980-4162-bb69-2d6e526208af.png) 
+![Image](https://github.com/feematteo/feematteo/blob/main/assets/103369857/cb5de2ca-b980-4162-bb69-2d6e526208af)![image]
 ![Image](https://github.com/feematteo/feematteo/blob/main/assets/103369857/27290101-5bf2-4f99-9f52-072ca5c03946.png)
 
 ![Image](https://github.com/feematteo/feematteo/blob/main/assets/103369857/8b118b16-c646-4761-8664-a4b1ac839bc4.png) 
