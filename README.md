@@ -8,16 +8,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-       
 </head>
 <body>
 
-<div class="logo-container">
-    <img src="./logos/py.png" alt="Image1" width="50" height="50">
-    <img src="./logos/R.png" alt="Image2" width="50" height="50">
-    <img src="./logos/excel.png" alt="Image3" width="50" height="50">
-    <img src="./logos/powerbi.png" alt="Image4" width="50" height="50">
+<div style="display: flex;">
+    <img src="./logos/py.png" alt="Image1" width="50" height="50" style="margin-right: 10px;">
+    <img src="./logos/R.png" alt="Image2" width="50" height="50" style="margin-right: 10px;">
+    <img src="./logos/excel.png" alt="Image3" width="50" height="50" style="margin-right: 10px;">
+    <img src="./logos/powerbi.png" alt="Image4" width="50" height="50" style="margin-right: 10px;">
     <img src="./logos/matlab.png" alt="Image5" width="50" height="50">
 </div>
 
