@@ -3,12 +3,33 @@
 ## In my work time, free time, and study time, I'm always engaged in Finance, Statistics, and Data Analysis.
 
 # Languages and Tools
-<img src="./logos/py.png" alt="Image1" width="50" height="50">
-<img src="./logos/R.png" alt="Image2" width="50" height="50">
-<img src="./logos/excel.png" alt="Image3" width="50" height="50">
-<img src="./logos/powerbi.png" alt="Image4" width="50" height="50">
-<img src="./logos/matlab.png" alt="Image5" width="50" height="50">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .logo-container {
+            display: flex;
+        }
 
+        .logo-container img {
+            margin-right: 10px; /* Adjust the margin as needed to create space between logos */
+        }
+    </style>
+</head>
+<body>
+
+<div class="logo-container">
+    <img src="./logos/py.png" alt="Image1" width="50" height="50">
+    <img src="./logos/R.png" alt="Image2" width="50" height="50">
+    <img src="./logos/excel.png" alt="Image3" width="50" height="50">
+    <img src="./logos/powerbi.png" alt="Image4" width="50" height="50">
+    <img src="./logos/matlab.png" alt="Image5" width="50" height="50">
+</div>
+
+</body>
+</html>
 <!--
 **feematteo/feematteo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
