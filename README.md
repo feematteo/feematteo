@@ -13,10 +13,7 @@
             display: flex;
         }
 
-        .logo-container img {
-            margin-right: 10px; /* Adjust the margin as needed to create space between logos */
-        }
-    </style>
+       
 </head>
 <body>
 
