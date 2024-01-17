@@ -12,7 +12,7 @@
 <body>
 
 <div style="display: flex;">
-    <img src="./logos/py.png" alt="Image1" width="50" height="50" style="margin-right: 10px;">
+    <img src="./logos/py.png" alt="Image1" width="50" height="50" style="margin-right: 20px;">
     <img src="./logos/R.png" alt="Image2" width="50" height="50" style="margin-right: 10px;">
     <img src="./logos/excel.png" alt="Image3" width="50" height="50" style="margin-right: 10px;">
     <img src="./logos/powerbi.png" alt="Image4" width="50" height="50" style="margin-right: 10px;">
