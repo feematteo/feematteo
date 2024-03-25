@@ -17,7 +17,9 @@
     <img src="./logos/excel.png" alt="Image3" width="50" height="50" style="margin-right: 10px;">
     <img src="./logos/powerbi.png" alt="Image4" width="50" height="50" style="margin-right: 10px;">
     <img src="./logos/matlab.png" alt="Image5" width="50" height="50">
-    <img src="./logos/pp.png" alt="Image5" width="60" height="60">
+    <img src="./logos/pp.png" alt="Image5" width="50" height="50">
+    <img src="./logos/canvva.png" alt="Image5" width="50" height="50">
+    <img src="./logos/tablleau.png" alt="Image5" width="50" height="50">
 </div>
 
 </body>
